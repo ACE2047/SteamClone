@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
+
+#login, #registration, #wishlist, #accountInfo {
+    margin-bottom: 20px;
+}
+
+#gamesList {
+    border: 1px solid red; /* To make it clearly visible */
+    min-height: 100px; /* Ensures it has space */
+    width: 100%; /* Ensures it takes full width */
+}
